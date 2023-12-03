@@ -15,6 +15,8 @@ Features and FAQs can be found on the website: [**minidiary.app**](https://minid
 
 The application is built with Electron and React. To run or build the app yourself, you'll need to have Node.js and Yarn installed.
 
+Building the application with github action.
+
 ### Running the app
 
 1. Clone this repository: `git clone REPO_URL`
